@@ -58,7 +58,7 @@ I'm looking for **cyber security placements and internships**.
 <tr>
 <td width="50%" valign="top">
 
-**[password-checker](https://github.com/your-username/password-checker)**
+**[password-checker](https://github.com/yshxrkz/password-checker)**
 
 Scores password strength and checks it against known breaches with the Have I Been Pwned k-anonymity API, so the full password never leaves your machine.
 
@@ -67,7 +67,7 @@ Scores password strength and checks it against known breaches with the Have I Be
 </td>
 <td width="50%" valign="top">
 
-**[log-analyser](https://github.com/your-username/log-analyser)**
+**[log-analyser](https://github.com/yshxrkz/log-analyser)**
 
 Reads Linux auth and web server logs, flags brute-force attempts, scanning and suspicious IPs, and writes an HTML incident report.
 
@@ -78,7 +78,7 @@ Reads Linux auth and web server logs, flags brute-force attempts, scanning and s
 <tr>
 <td width="50%" valign="top">
 
-**[port-scanner](https://github.com/your-username/port-scanner)**
+**[port-scanner](https://github.com/yshxrkz/port-scanner)**
 
 Multithreaded TCP scanner with banner grabbing and JSON and CSV export, built for authorised targets only.
 
@@ -87,7 +87,7 @@ Multithreaded TCP scanner with banner grabbing and JSON and CSV export, built fo
 </td>
 <td width="50%" valign="top">
 
-**[phishing-detector](https://github.com/your-username/phishing-detector)**
+**[phishing-detector](https://github.com/yshxrkz/phishing-detector)**
 
 Checks emails and URLs for spoofed headers, lookalike domains and suspicious links, and explains every point of its risk score.
 
@@ -98,7 +98,7 @@ Checks emails and URLs for spoofed headers, lookalike domains and suspicious lin
 <tr>
 <td width="50%" valign="top">
 
-**[file-integrity-monitor](https://github.com/your-username/file-integrity-monitor)**
+**[file-integrity-monitor](https://github.com/yshxrkz/file-integrity-monitor)**
 
 Takes a SHA-256 baseline of a folder and alerts when files are added, deleted or changed.
 
@@ -107,7 +107,7 @@ Takes a SHA-256 baseline of a folder and alerts when files are added, deleted or
 </td>
 <td width="50%" valign="top">
 
-**[ctf-writeups](https://github.com/your-username/ctf-writeups)**
+**[ctf-writeups](https://github.com/yshxrkz/ctf-writeups)**
 
 Writeups from CTFs and labs: how I enumerated, what worked, what didn't, and what I'd do differently.
 
